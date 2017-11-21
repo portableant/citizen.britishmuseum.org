@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Partner Stories &#8211; Museum of the Citizen</title>
-	<atom:link href="/category/partner-stories/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 30 Aug 2017 12:37:09 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -19,22 +19,22 @@
 	<generator>https://wordpress.org/?v=4.9</generator>
 	<item>
 		<title>Herbert Museum and Art Gallery</title>
-		<link>/herbert-museum-and-art-gallery/</link>
+		<link>./../../../herbert-museum-and-art-gallery/index.html</link>
 		<pubDate>Thu, 21 Jan 2016 11:07:02 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[Partner Stories]]></category>
 
-		<guid isPermaLink="false">/?p=767</guid>
+		<guid isPermaLink="false">./../../../index.html?p=767</guid>
 		<description><![CDATA[&#8216;When I look back over the last decade at the Herbert Museum’s programme I am]]></description>
 				<content:encoded><![CDATA[<blockquote><p>&#8216;When I look back over the last decade at the Herbert Museum’s programme I am astounded at just how much support we have received from the British Museum to create engaging exhibitions.&#8217;</p>
 <p>– Chris Kirby</p></blockquote>
-<p><img class="wp-image-771 size-medium" src="/wp-content/uploads/RomanEmpire_142-2000x1135.jpg" alt="RomanEmpire_142" width="2000" height="1135" srcset="/wp-content/uploads/RomanEmpire_142-2000x1135.jpg 2000w, /wp-content/uploads/RomanEmpire_142-300x170.jpg 300w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
+<p><img class="wp-image-771 size-medium" src="./../../../wp-content/uploads/RomanEmpire_142-2000x1135.jpg" alt="RomanEmpire_142" width="2000" height="1135" srcset="./../../../wp-content/uploads/RomanEmpire_142-2000x1135.jpg 2000w, ./../../../wp-content/uploads/RomanEmpire_142-300x170.jpg 300w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
 <p>The loans and touring exhibitions provided by the British Museum has created some catalyst for development, and in doing so a lasting legacy for our organisation. Through the British Museum partnership we have developed audiences, partnerships and staff expertise. We look forward to what this partnership can achieve going forward.</p>
 <p><strong>Throne of Weapons, 2005<br />
 </strong>Our productive relationship with the British Museum started in 2005 when we hosted the Throne of Weapons &#8211; a powerful contemporary art piece by Mozambique artist Kester. During its time in Coventry, the Throne was taken for a special service in Coventry Cathedral.</p>
 <p><strong><em>La Bouche Du Roi</em> and <em>China, Journey to the East</em>, 2009<br />
 </strong>In 2009, the Herbert exhibited two concurrent British Museum exhibitions: <em><a href="http://www.artfund.org/supporting-museums/art-weve-helped-buy/artwork/9798/la-bouche-du-roi" target="_blank">La Bouche Du Roi</a></em> was a large contemporary installation by Benin artist <a href="https://en.wikipedia.org/wiki/Romuald_Hazoum%C3%A8" target="_blank">Romuald Hazoumé</a> exploring the slave trade. The second was <em>China, Journey to East</em> which helped create a partnership with our neighbour Compton Verney and their important oriental collection; we also developed a close link with Coventry University’s Chinese student community.</p>
-<figure id="attachment_768" style="max-width: 804px" class="wp-caption alignnone"><img class="size-full wp-image-768" src="/wp-content/uploads/18romuald-5.jpg" alt="La Bouche du Roi by Romuald Hazoumé" width="804" height="293" srcset="/wp-content/uploads/18romuald-5.jpg 804w, /wp-content/uploads/18romuald-5-300x109.jpg 300w" sizes="(max-width: 804px) 100vw, 804px" /><figcaption class="wp-caption-text">La Bouche du Roi by Romuald Hazoumé</figcaption></figure>
+<figure id="attachment_768" style="max-width: 804px" class="wp-caption alignnone"><img class="size-full wp-image-768" src="./../../../wp-content/uploads/18romuald-5.jpg" alt="La Bouche du Roi by Romuald Hazoumé" width="804" height="293" srcset="./../../../wp-content/uploads/18romuald-5.jpg 804w, ./../../../wp-content/uploads/18romuald-5-300x109.jpg 300w" sizes="(max-width: 804px) 100vw, 804px" /><figcaption class="wp-caption-text">La Bouche du Roi by Romuald Hazoumé</figcaption></figure>
 <p><strong><em>Secret Egypt</em>, 2011<br />
 </strong>The British Museum lent some key objects to <em>Secret Egypt: Unravelling Truth from Myth</em>, a Herbert exhibition which became the first venue of a national tour. At the time this was the most successful exhibition in the Herbert’s fifty year history.</p>
 <p><strong>Sikh Fortress Turban, 2013<br />
@@ -49,15 +49,15 @@
 			</item>
 		<item>
 		<title>A new South Asia Gallery for Manchester Museum</title>
-		<link>/manchester-museum/</link>
+		<link>./../../../manchester-museum/index.html</link>
 		<pubDate>Wed, 02 Dec 2015 06:15:01 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[Partner Stories]]></category>
 
-		<guid isPermaLink="false">/?p=379</guid>
+		<guid isPermaLink="false">./../../../index.html?p=379</guid>
 		<description><![CDATA[&#8220;2017 is the 70th anniversary of Partition and there&#8217;s a UK/India Year of Culture. Having]]></description>
 				<content:encoded><![CDATA[<blockquote><p><strong>&#8220;2017 is the 70th anniversary of Partition and there&#8217;s a UK/India Year of Culture. Having the South Asia Gallery well underway, although clearly not open, is going to be an important milestone.&#8221;</strong> – Nick Merriman</p></blockquote>
-<p><img class="alignnone size-medium wp-image-384" src="/wp-content/uploads/csfl8984_10577025466_o-2000x1333.jpg" alt="csfl8984_10577025466_o" width="2000" height="1333" srcset="/wp-content/uploads/csfl8984_10577025466_o-2000x1333.jpg 2000w, /wp-content/uploads/csfl8984_10577025466_o-300x200.jpg 300w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
+<p><img class="alignnone size-medium wp-image-384" src="./../../../wp-content/uploads/csfl8984_10577025466_o-2000x1333.jpg" alt="csfl8984_10577025466_o" width="2000" height="1333" srcset="./../../../wp-content/uploads/csfl8984_10577025466_o-2000x1333.jpg 2000w, ./../../../wp-content/uploads/csfl8984_10577025466_o-300x200.jpg 300w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
 <p><b>The history of Manchester Museum<br />
 </b><span style="font-weight: 400;">I&#8217;ve been Director of Manchester Museum for nearly 10 years. When I started, the Museum had recently finished a major capital investment, which gave it expanded facilities, bringing the building into the 20th century, if not the 21st.</span></p>
 <p>But it didn&#8217;t update or address most of its permanent galleries, so my job has been to raise funds for a rolling programme of gallery renewals, approximately one a year. We&#8217;ve now come to the end of that cycle, and all the galleries that were about 25 or 30 years old have been updated and modernised. Over the same period, visitor numbers have more than doubled. There was an original target of getting up to 200,000 visitors a year to come to the Museum when the developments were all complete. We&#8217;re now at nearly 450,000 so we get very congested at times!</p>
@@ -84,15 +84,15 @@
 			</item>
 		<item>
 		<title>Museums and young people at New Walk Museum &#038; Art Gallery, Leicester</title>
-		<link>/new-walk-museum-art-gallery-leicester/</link>
+		<link>./../../../new-walk-museum-art-gallery-leicester/index.html</link>
 		<pubDate>Tue, 24 Nov 2015 11:11:44 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[Partner Stories]]></category>
 
-		<guid isPermaLink="false">/?p=362</guid>
+		<guid isPermaLink="false">./../../../index.html?p=362</guid>
 		<description><![CDATA[&#8216;Very often people lack a sense of identity and a sense of feeling proud of]]></description>
 				<content:encoded><![CDATA[<blockquote><p><strong>&#8216;Very often people lack a sense of identity and a sense of feeling proud of the place where they live. By creating a very strong perception of the city and its long history, we hope that museums will really help to engender an enthusiasm in people for living in the city.&#8217; </strong>&#8211; Sarah Levitt</p></blockquote>
-<p><img class="alignnone size-full wp-image-367" src="/wp-content/uploads/New-Walk-Gallery.jpg" alt="New Walk Gallery" width="1204" height="845" srcset="/wp-content/uploads/New-Walk-Gallery.jpg 1204w, /wp-content/uploads/New-Walk-Gallery-300x211.jpg 300w" sizes="(max-width: 1204px) 100vw, 1204px" /></p>
+<p><img class="alignnone size-full wp-image-367" src="./../../../wp-content/uploads/New-Walk-Gallery.jpg" alt="New Walk Gallery" width="1204" height="845" srcset="./../../../wp-content/uploads/New-Walk-Gallery.jpg 1204w, ./../../../wp-content/uploads/New-Walk-Gallery-300x211.jpg 300w" sizes="(max-width: 1204px) 100vw, 1204px" /></p>
 <p><strong>Over 10 years of partnership<br />
 </strong>We first started working with the British Museum well over 10 years ago when we were invited to be part of a project called Partnership UK. From that starting point we&#8217;ve had some wonderful activities, spotlight displays and a major exhibition. We have a continuing dialogue about potential loans and projects with the British Museum team, where we discuss what’s appropriate, what&#8217;s available, what Leicester and its communities might like.</p>
 <p><strong>The Sikh fortress turban<br />
@@ -111,15 +111,15 @@
 			</item>
 		<item>
 		<title>Birmingham Museum &#038; Art Gallery</title>
-		<link>/birmingham-museum-art-gallery/</link>
+		<link>./../../../birmingham-museum-art-gallery/index.html</link>
 		<pubDate>Mon, 23 Nov 2015 17:36:39 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[Partner Stories]]></category>
 
-		<guid isPermaLink="false">/?p=327</guid>
+		<guid isPermaLink="false">./../../../index.html?p=327</guid>
 		<description><![CDATA[&#8220;Having worked in the Staffordshire Hoard galleries for over three years, I have seen first-hand]]></description>
 				<content:encoded><![CDATA[<blockquote><p><strong>&#8220;Having worked in the Staffordshire Hoard galleries for over three years, I have seen first-hand how the hoard fascinates people and captures their imagination.&#8221;</strong> &#8211; Anthony Crutch</p></blockquote>
-<p><img class="alignnone size-full wp-image-103" src="/wp-content/uploads/Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords.jpg" alt="Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords" width="960" height="1600" srcset="/wp-content/uploads/Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords.jpg 960w, /wp-content/uploads/Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords-180x300.jpg 180w" sizes="(max-width: 960px) 100vw, 960px" /><br />
+<p><img class="alignnone size-full wp-image-103" src="./../../../wp-content/uploads/Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords.jpg" alt="Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords" width="960" height="1600" srcset="./../../../wp-content/uploads/Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords.jpg 960w, ./../../../wp-content/uploads/Anthony-in-the-gallery-with-the-replica-and-real-anglo-saxon-swords-180x300.jpg 180w" sizes="(max-width: 960px) 100vw, 960px" /><br />
 The first permanent gallery to display the Staffordshire Hoard opened in October 2014. As part of the display, we have included an Anglo-Saxon sword, on loan from the British Museum.</p>
 <p>Having worked in the Staffordshire Hoard galleries for over three years, I have seen first-hand how the hoard fascinates people and captures their imagination. They are struck by the intricacy of the detail, the beauty of the designs and the sheer amount of objects.</p>
 <p>One thing that makes the hoard so interesting is the fact that the vast majority of it is made up of military equipment, with a large number of decorative pieces of swords. The twisted and fragmentary nature of the objects and the absence of any sword blades in the hoard can make it difficult for people to visualise them in their original context. Having a real Anglo-Saxon sword allows us to show people how these buckled and broken objects would have fitted together – it has become a valuable interpretation tool. This really helps people understand what these objects would have looked like and how they would have been used, providing a compelling insight into the lives of these craftspeople and warriors from our distant past.</p>
@@ -128,16 +128,16 @@ The first permanent gallery to display the Staffordshire Hoard opened in October
 			</item>
 		<item>
 		<title>Museum of Lancashire</title>
-		<link>/museum-of-lancashire/</link>
+		<link>./../../../museum-of-lancashire/index.html</link>
 		<pubDate>Mon, 23 Nov 2015 17:36:24 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[Partner Stories]]></category>
 
-		<guid isPermaLink="false">/?p=332</guid>
+		<guid isPermaLink="false">./../../../index.html?p=332</guid>
 		<description><![CDATA[&#8220;&#8230;a unique opportunity for the Museum of Lancashire to develop an exciting new relationship with]]></description>
 				<content:encoded><![CDATA[<blockquote><p><strong>&#8220;&#8230;a unique opportunity for the Museum of Lancashire to develop an exciting new relationship with the local Sikh community.&#8221; </strong>&#8211; Kate Eggleston-Wirtz</p></blockquote>
 <p>The Museum of Lancashire hosted the Sikh fortress turban, a spotlight loan from the British Museum, between November 2014 and February 2015. This offered a unique opportunity for the Museum of Lancashire to develop an exciting new relationship with the local Sikh community. I was brought in as an artist to facilitate creative work about place and identity with the community and as a creative consultant for the community gallery area of the display.</p>
-<p><img class="alignnone size-medium wp-image-100" src="/wp-content/uploads/Derby-Ladies-2-2000x1168.jpg" alt="Derby Ladies 2" width="2000" height="1168" srcset="/wp-content/uploads/Derby-Ladies-2-2000x1168.jpg 2000w, /wp-content/uploads/Derby-Ladies-2-300x175.jpg 300w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
+<p><img class="alignnone size-medium wp-image-100" src="./../../../wp-content/uploads/Derby-Ladies-2-2000x1168.jpg" alt="Derby Ladies 2" width="2000" height="1168" srcset="./../../../wp-content/uploads/Derby-Ladies-2-2000x1168.jpg 2000w, ./../../../wp-content/uploads/Derby-Ladies-2-300x175.jpg 300w" sizes="(max-width: 2000px) 100vw, 2000px" /></p>
 <p>As a collective we focused on ‘home’ whereby people of diverse age groups created their own individual house. I was also invited to photograph two Nagar Kirtan events that took place in Preston. This work, and further consultation with the local Sikh community members culminated in constructing my own creative response, an interactive educational artwork about the Sikh religion using a dollhouse as a symbol of a Gurdwara (Sikh temple).</p>
 <p>The artwork was displayed alongside the community’s artwork during the exhibition. It has been used in educational settings and proven to be an effective learning source. It will continue to be offered in the future to raise awareness about Sikhism. It was a privilege to work on this project.</p>
 <p>Kate Eggleston-Wirtz, freelance artist</p>
@@ -146,15 +146,15 @@ The first permanent gallery to display the Staffordshire Hoard opened in October
 			</item>
 		<item>
 		<title>Russell-Cotes Art Gallery &#038; Museum, Bournemouth</title>
-		<link>/russell-cotes-art-gallery-museum-bournemouth/</link>
+		<link>./../../../russell-cotes-art-gallery-museum-bournemouth/index.html</link>
 		<pubDate>Mon, 23 Nov 2015 17:28:14 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[Partner Stories]]></category>
 
-		<guid isPermaLink="false">/?p=344</guid>
+		<guid isPermaLink="false">./../../../index.html?p=344</guid>
 		<description><![CDATA[&#8220;All who witnessed the families enjoying their day or the chrysanthemum flowers floating down the]]></description>
 				<content:encoded><![CDATA[<blockquote><p><strong>&#8220;All who witnessed the families enjoying their day or the chrysanthemum flowers floating down the stream and out to sea felt that they had been part of something very special.&#8221;</strong> &#8211; Sarah Newman</p></blockquote>
-<p><img class="alignnone size-full wp-image-345" src="/wp-content/uploads/12138520_691213427680739_2954172969830595920_o-1.jpg" alt="Celebrating Ganesha, Russel-Cotes Museum and Art Gallery" width="1021" height="679" srcset="/wp-content/uploads/12138520_691213427680739_2954172969830595920_o-1.jpg 1021w, /wp-content/uploads/12138520_691213427680739_2954172969830595920_o-1-300x200.jpg 300w" sizes="(max-width: 1021px) 100vw, 1021px" /></p>
+<p><img class="alignnone size-full wp-image-345" src="./../../../wp-content/uploads/12138520_691213427680739_2954172969830595920_o-1.jpg" alt="Celebrating Ganesha, Russel-Cotes Museum and Art Gallery" width="1021" height="679" srcset="./../../../wp-content/uploads/12138520_691213427680739_2954172969830595920_o-1.jpg 1021w, ./../../../wp-content/uploads/12138520_691213427680739_2954172969830595920_o-1-300x200.jpg 300w" sizes="(max-width: 1021px) 100vw, 1021px" /></p>
 <p>On the most perfect September day, about 50 people descended along the cliff top from the Russell-Cotes Art Gallery &amp; Museum to the Bourne River in Lower Gardens. The group were there to immerse individual Ganesha statues in the water as the culmination of the Bournemouth Ganesha Festival, inspired by a 13<sup>th</sup> century sculpture of the Hindu Deity Ganesha, loaned by the British Museum as part of its touring exhibition <em>Celebrating Ganesha.</em></p>
 <p>Witty, wise and famous as the placer and remover of obstacles, Ganesha is celebrated every year with a festival, <em>Ganeshchaturthi</em>, held in the month of Bhadrapada (August – September).</p>
 <p>The loan was the springboard for the newly formed Dorset Indian Association (DIA) to work with the Russell-Cotes to choose Hindu objects from the collection for display, culminating in a day of worship, picnics on the lawn, children’s activities and celebration.</p>

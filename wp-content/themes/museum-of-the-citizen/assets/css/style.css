@@ -816,7 +816,7 @@ button.swiper-pagination-bullet {
   z-index: 1000;
   width: 100%;
   height: 100%;
-  background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-load-spin.svg) no-repeat 50% 50%; }
+  background: url(./../img/icon-load-spin.svg) no-repeat 50% 50%; }
 
 /* Structure
 --------------*/
@@ -943,8 +943,8 @@ body {
 
 @font-face {
   font-family: 'social';
-  src: url("/wp-content/themes/museum-of-the-citizen/assets/font/social.eot?74574869");
-  src: url("/wp-content/themes/museum-of-the-citizen/assets/font/social.eot?74574869#iefix") format("embedded-opentype"), url("/wp-content/themes/museum-of-the-citizen/assets/font/social.woff?74574869") format("woff"), url("/wp-content/themes/museum-of-the-citizen/assets/font/social.ttf?74574869") format("truetype"), url("/wp-content/themes/museum-of-the-citizen/assets/font/social.svg?74574869#social") format("svg");
+  src: url("./../font/social.eot?74574869");
+  src: url("./../font/social.eot?74574869#iefix") format("embedded-opentype"), url("./../font/social.woff?74574869") format("woff"), url("./../font/social.ttf?74574869") format("truetype"), url("./../font/social.svg?74574869#social") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -1066,7 +1066,7 @@ p {
   width: 1em;
   height: 2em;
   margin: -.25em 1em 0 0;
-  background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-arrow-right.svg) 50% 50% no-repeat;
+  background: url(./../img/icon-arrow-right.svg) 50% 50% no-repeat;
   -webkit-transition: opacity 200ms;
           transition: opacity 200ms; }
 
@@ -1351,7 +1351,7 @@ p {
   left: 50%;
   width: 5em;
   height: 5em;
-  background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-play.svg) no-repeat 50% 50%;
+  background: url(./../img/icon-play.svg) no-repeat 50% 50%;
   -webkit-transform: translateY(-50%) translateX(-50%);
       -ms-transform: translateY(-50%) translateX(-50%);
           transform: translateY(-50%) translateX(-50%);
@@ -1481,7 +1481,7 @@ p {
     display: block;
     width: 1.625em;
     height: 1.625em;
-    background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-enlarge-white.svg) no-repeat 0 0;
+    background: url(./../img/icon-enlarge-white.svg) no-repeat 0 0;
     opacity: 0;
     -webkit-transition: opacity 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
             transition: opacity 200ms cubic-bezier(0.215, 0.61, 0.355, 1); }
@@ -1634,7 +1634,7 @@ p {
   .touchevents .intro-video__wrap {
     height: 0;
     padding-bottom: 56.25%;
-    background: url(/wp-content/themes/museum-of-the-citizen/assets/img/motc-intro.gif) no-repeat 50% 50%;
+    background: url(./../img/motc-intro.gif) no-repeat 50% 50%;
     background-size: cover; }
     .touchevents .intro-video__wrap video {
       display: none; }
@@ -1719,7 +1719,7 @@ p {
     display: block;
     width: 1.625em;
     height: 1.625em;
-    background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-enlarge-black.svg) no-repeat 0 0;
+    background: url(./../img/icon-enlarge-black.svg) no-repeat 0 0;
     opacity: 0;
     -webkit-transition: opacity 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
             transition: opacity 200ms cubic-bezier(0.215, 0.61, 0.355, 1); }
@@ -2218,7 +2218,7 @@ p {
   width: 2.5em;
   height: 2.5em;
   z-index: 100;
-  background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-top.svg) no-repeat 50% 50%;
+  background: url(./../img/icon-top.svg) no-repeat 50% 50%;
   opacity: 0;
   pointer-events: none;
   -webkit-transition: all 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
@@ -2238,7 +2238,7 @@ p {
   height: 2.5em;
   margin: -1.25em 0 0 -1.25em;
   z-index: 100;
-  background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-play.svg) no-repeat 50% 50%;
+  background: url(./../img/icon-play.svg) no-repeat 50% 50%;
   background-size: 100%;
   opacity: 0.5;
   -webkit-transition: opacity 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
@@ -2417,7 +2417,7 @@ p {
   width: 2.25em;
   height: 2.25em;
   cursor: pointer;
-  background: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-close.svg) no-repeat 50% 50%;
+  background: url(./../img/icon-close.svg) no-repeat 50% 50%;
   -webkit-transition: opacity 200ms cubic-bezier(0.215, 0.61, 0.355, 1);
           transition: opacity 200ms cubic-bezier(0.215, 0.61, 0.355, 1); }
   @media (min-width: 420px) {
@@ -2427,7 +2427,7 @@ p {
   .modal__close:hover {
     opacity: 0.5; }
   .modal--solid .modal__close {
-    background-image: url(/wp-content/themes/museum-of-the-citizen/assets/img/icon-close-black.svg); }
+    background-image: url(./../img/icon-close-black.svg); }
 
 .modal-swiper .swiper-slide {
   width: auto;

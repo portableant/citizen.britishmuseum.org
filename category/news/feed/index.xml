@@ -9,8 +9,8 @@
 
 <channel>
 	<title>News &#8211; Museum of the Citizen</title>
-	<atom:link href="/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 30 Aug 2017 12:37:09 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -19,15 +19,15 @@
 	<generator>https://wordpress.org/?v=4.9</generator>
 	<item>
 		<title>Museum of the citizen: Manchester</title>
-		<link>/motc-manchester/</link>
+		<link>./../../../motc-manchester/index.html</link>
 		<pubDate>Thu, 17 Dec 2015 11:17:41 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=531</guid>
+		<guid isPermaLink="false">./../../../index.html?p=531</guid>
 		<description><![CDATA[In Manchester we celebrated our partnership with Manchester Museum, which will see the development of]]></description>
 				<content:encoded><![CDATA[<p>In Manchester we celebrated our partnership with Manchester Museum, which will see the development of a new multi-million pound South Asia Gallery in 2020 – the first of its kind in the UK, and the British Museum&#8217;s largest partnership gallery to date. The South Asia Gallery is part of a wider capital scheme at Manchester Museum which will include a large temporary exhibition space, a new entrance and expanded public facilities. Its aim will be to tell the cultural histories of South Asia, developed in close consultation with local communities and the wider diaspora. As part of the partnership, several objects from the British Museum’s collection will be loaned to Manchester Museum alongside ongoing curatorial support.</p>
-<p><img class="alignnone size-full wp-image-602" src="/wp-content/uploads/Mcr-Museum-Citizen-36.jpg" alt="Mcr Museum Citizen-36" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Citizen-36.jpg 900w, /wp-content/uploads/Mcr-Museum-Citizen-36-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-602" src="./../../../wp-content/uploads/Mcr-Museum-Citizen-36.jpg" alt="Mcr Museum Citizen-36" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Citizen-36.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Citizen-36-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>On the panel:</p>
 <ul>
 <li>Professor Dame Nancy Rothwell, President &amp; Vice-Chancellor, University of Manchester</li>
@@ -41,46 +41,46 @@
 <hr />
 <blockquote><p><b>&#8216;There&#8217;s a risk that the northern powerhouse becomes entirely about science, technology and engineering and it cannot be. It must be also about culture, about social sciences, about what matters to people and what changes their lives&#8217;<br />
 –</b> Dame Nancy Rothwell</p></blockquote>
-<p><img class="alignnone size-full wp-image-653" src="/wp-content/uploads/Mcr-Museum-Audience-16.jpg" alt="Mcr Museum Audience-16" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Audience-16.jpg 900w, /wp-content/uploads/Mcr-Museum-Audience-16-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-653" src="./../../../wp-content/uploads/Mcr-Museum-Audience-16.jpg" alt="Mcr Museum Audience-16" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Audience-16.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Audience-16-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Dame Nancy Rothwell opened with a few words on the significant role of culture in the Northern Powerhouse, followed by a reminder of the close links between the roles of museums and universities – both homes to research, teaching, community engagement.</p>
 <p>Listen to Dame Nancy Rothwell:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237514799%3Fsecret_token%3Ds-qqeXO&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-647" src="/wp-content/uploads/Mcr-Museum-Audience-22.jpg" alt="Mcr Museum Audience-22" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Audience-22.jpg 900w, /wp-content/uploads/Mcr-Museum-Audience-22-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-647" src="./../../../wp-content/uploads/Mcr-Museum-Audience-22.jpg" alt="Mcr Museum Audience-22" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Audience-22.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Audience-22-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <hr />
 <blockquote><p><b>&#8216;We&#8217;re aiming to become what we call a &#8216;Museum for Life&#8217; – a museum which works with everyone from babies to the very elderly, and which addresses some of the big issues around intercultural understanding and sustainability.&#8217;<br />
 – </b>Nick Merriman</p></blockquote>
-<p><img class="alignnone size-full wp-image-574" src="/wp-content/uploads/Mcr-Museum-Citizen-5.jpg" alt="Mcr Museum Citizen-5" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Citizen-5.jpg 900w, /wp-content/uploads/Mcr-Museum-Citizen-5-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-574" src="./../../../wp-content/uploads/Mcr-Museum-Citizen-5.jpg" alt="Mcr Museum Citizen-5" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Citizen-5.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Citizen-5-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Next up, Nick Merriman placed the South Asia Gallery in the wider context of the British Museum&#8217;s long-running partnership with Manchester Museum, the cultural ambitions of Manchester city and Manchester Museum&#8217;s wider redevelopment plans.</p>
 <p>Listen to Nick Merriman:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237514794%3Fsecret_token%3Ds-NzmyC&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
 <blockquote><p><b>&#8216;The museum, the civic space which belongs to everybody, is where traditions which are both particular and shared can be explored&#8217;<br />
 </b>– Neil MacGregor</p></blockquote>
-<p><img class="alignnone size-full wp-image-629" src="/wp-content/uploads/Mcr-Museum-Citizen-63.jpg" alt="Mcr Museum Citizen-63" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Citizen-63.jpg 900w, /wp-content/uploads/Mcr-Museum-Citizen-63-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-629" src="./../../../wp-content/uploads/Mcr-Museum-Citizen-63.jpg" alt="Mcr Museum Citizen-63" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Citizen-63.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Citizen-63-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>British Museum Director Neil MacGregor reflected on the South Asia Gallery&#8217;s significance to the British Museum, noting it as the largest partnership gallery that the British Museum has embarked on to date. He added that these types of partnerships allow the British Museum to truly be a museum of the citizen, with a collection that is accessible to, and reflective of, the whole of the UK.</p>
 <p>Listen to Neil MacGregor:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237514792%3Fsecret_token%3Ds-FFqiJ&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
 <blockquote><p><b>&#8216;The British Museums collection was founded in 1753 with the collections of Sir Hans Sloane and I always find it a matter of great pleasure that even in that foundation collection there were already contemporary South Asian items and Indian paintings in his original collection.&#8217;<br />
 </b>– Richard Blurton</p></blockquote>
-<p><img class="alignnone size-full wp-image-626" src="/wp-content/uploads/Mcr-Museum-Citizen-60.jpg" alt="Mcr Museum Citizen-60" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Citizen-60.jpg 900w, /wp-content/uploads/Mcr-Museum-Citizen-60-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-626" src="./../../../wp-content/uploads/Mcr-Museum-Citizen-60.jpg" alt="Mcr Museum Citizen-60" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Citizen-60.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Citizen-60-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Reiterating Neil MacGregor&#8217;s sentiments that the British Museum should be seen as a lending library for other museums and galleries, Richard Blurton, Curator of the British Museum&#8217;s South Asia collection, showcased a speculative selection of <span style="font-weight: 400;">British Museum objects</span> that could be displayed in the new Gallery – including <span style="font-weight: 400;">paintings from the major centres of Mughal power, Hindu and Buddhist sculptures, and rare Bangladeshi scrolls and textiles.</span></p>
 <p>Listen to Richard Blurton:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237514785%3Fsecret_token%3Ds-HN31y&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
 <blockquote><p><b>&#8216;The only time I was compelled to make an effort to go to a museum was if there was something that was connecting me to my culture – for me that would have been seeing the oldest Qu&#8217;ran or Indian artefact on kings and queens&#8230;it was about me wanting to go because there was something connecting me to the museum&#8217;<br />
 </b>– Talat-Farooq Awan</p></blockquote>
-<p><img class="alignnone size-full wp-image-570" src="/wp-content/uploads/Mcr-Museum-Citizen-1.jpg" alt="Mcr Museum Citizen-1" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Citizen-1.jpg 900w, /wp-content/uploads/Mcr-Museum-Citizen-1-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-570" src="./../../../wp-content/uploads/Mcr-Museum-Citizen-1.jpg" alt="Mcr Museum Citizen-1" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Citizen-1.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Citizen-1-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Next up, BBC b<span style="font-weight: 400;">roadcaster and journalist Talat-Farooq Awan noted that the new South Asia Gallery would help Manchester build connections with universities and museums in Pakistan, while also building connections with the 340,000-strong community of people of South Asian heritage in Manchester.</span></p>
 <p>Listen to Talat-Farooq Awan:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237514781%3Fsecret_token%3Ds-iG12E&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-639" src="/wp-content/uploads/Mcr-Museum-Audience-23.jpg" alt="Mcr Museum Audience-23" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Audience-23.jpg 900w, /wp-content/uploads/Mcr-Museum-Audience-23-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-639" src="./../../../wp-content/uploads/Mcr-Museum-Audience-23.jpg" alt="Mcr Museum Audience-23" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Audience-23.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Audience-23-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <hr />
 <blockquote><p><b>&#8216;We can address the </b><b>challenges that are currently facing the globe &#8211; conflict, security, health &#8211; through the understanding of each other&#8217;s cultures.&#8217;<br />
 </b>– Professor Colin Bailey</p></blockquote>
-<p><img class="alignnone size-full wp-image-617" src="/wp-content/uploads/Mcr-Museum-Citizen-51.jpg" alt="Mcr Museum Citizen-51" width="900" height="584" srcset="/wp-content/uploads/Mcr-Museum-Citizen-51.jpg 900w, /wp-content/uploads/Mcr-Museum-Citizen-51-300x195.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-617" src="./../../../wp-content/uploads/Mcr-Museum-Citizen-51.jpg" alt="Mcr Museum Citizen-51" width="900" height="584" srcset="./../../../wp-content/uploads/Mcr-Museum-Citizen-51.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Citizen-51-300x195.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>The final speaker of the day, Manchester University&#8217;s Deputy Vice-Chancellor, highlighted the importance of the South Asia Gallery to the University. Students and staff represent 185 different countries around the globe, he said, emphasising that there were few other places where one could experience, and come to understand, people from so many different cultures.</p>
 <p>Listen to Professor Colin Bailey:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237514775%3Fsecret_token%3Ds-t8ik7&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
 <p>Questions from the floor:</p>
 <blockquote><p><strong>&#8216;How will Manchester Museum temper the not so nice parts of history that took place in South Asia?&#8217;</strong><br />
 – audience member</p></blockquote>
-<p><img class="alignnone size-full wp-image-637" src="/wp-content/uploads/Mcr-Museum-Audience-30.jpg" alt="Mcr Museum Audience-30" width="900" height="600" srcset="/wp-content/uploads/Mcr-Museum-Audience-30.jpg 900w, /wp-content/uploads/Mcr-Museum-Audience-30-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-637" src="./../../../wp-content/uploads/Mcr-Museum-Audience-30.jpg" alt="Mcr Museum Audience-30" width="900" height="600" srcset="./../../../wp-content/uploads/Mcr-Museum-Audience-30.jpg 900w, ./../../../wp-content/uploads/Mcr-Museum-Audience-30-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Listen to the Museum of the citizen: Manchester Q&amp;A session:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237514773%3Fsecret_token%3Ds-FCm4Y&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
 <p><strong>Museum of the citizen is a new events programme and public discussion that aims to celebrate the British Museum’s work with partners, large and small, who help us reach the broadest possible audience.</strong></p>
@@ -88,15 +88,15 @@
 			</item>
 		<item>
 		<title>Museum of the citizen: Leicester</title>
-		<link>/motc-leicester/</link>
+		<link>./../../../motc-leicester/index.html</link>
 		<pubDate>Tue, 15 Dec 2015 16:00:10 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=533</guid>
+		<guid isPermaLink="false">./../../../index.html?p=533</guid>
 		<description><![CDATA[Leicester&#8217;s New Walk Museum and Art Gallery played host to the first Museum of the]]></description>
 				<content:encoded><![CDATA[<p>Leicester&#8217;s New Walk Museum and Art Gallery played host to the first Museum of the citizen event, organised in partnership between the British Museum and Leicester City Council. Museum of the citizen: Leicester tackled the theme of &#8216;Young Citizens&#8217;; areas of discussion included how museums can help young people to find a sense of place and identity, Leicester&#8217;s commitment to supporting young people, creating a prosperous and vibrant place to live and work, and how working in partnership with the British Museum helps to achieve these aims.</p>
-<p><img class="alignnone wp-image-195" src="/wp-content/uploads/leicester-museum-mg-1099-jpg-827x550.jpg" alt="leicester-museum-mg-1099-jpg-827x550" width="950" height="632" srcset="/wp-content/uploads/leicester-museum-mg-1099-jpg-827x550.jpg 827w, /wp-content/uploads/leicester-museum-mg-1099-jpg-827x550-300x200.jpg 300w" sizes="(max-width: 950px) 100vw, 950px" /></p>
+<p><img class="alignnone wp-image-195" src="./../../../wp-content/uploads/leicester-museum-mg-1099-jpg-827x550.jpg" alt="leicester-museum-mg-1099-jpg-827x550" width="950" height="632" srcset="./../../../wp-content/uploads/leicester-museum-mg-1099-jpg-827x550.jpg 827w, ./../../../wp-content/uploads/leicester-museum-mg-1099-jpg-827x550-300x200.jpg 300w" sizes="(max-width: 950px) 100vw, 950px" /></p>
 <p>On the panel was:</p>
 <ul>
 <li><span style="font-weight: 400;">Sarah Levitt, Head of Arts and Museums, Leicester City Council</span></li>
@@ -106,20 +106,20 @@
 <li>Bonnie Greer OBE, writer, broadcaster and former British Museum Trustee</li>
 <li>Tim Loughton MP, Chair of the All Party Parliamentary Group for the British Museum</li>
 </ul>
-<p><img class="alignnone size-full wp-image-691" src="/wp-content/uploads/MOTC-Leicester.jpg" alt="MOTC Leicester" width="1505" height="1005" srcset="/wp-content/uploads/MOTC-Leicester.jpg 1505w, /wp-content/uploads/MOTC-Leicester-300x200.jpg 300w" sizes="(max-width: 1505px) 100vw, 1505px" /></p>
+<p><img class="alignnone size-full wp-image-691" src="./../../../wp-content/uploads/MOTC-Leicester.jpg" alt="MOTC Leicester" width="1505" height="1005" srcset="./../../../wp-content/uploads/MOTC-Leicester.jpg 1505w, ./../../../wp-content/uploads/MOTC-Leicester-300x200.jpg 300w" sizes="(max-width: 1505px) 100vw, 1505px" /></p>
 <blockquote><p><b>&#8216;Both the British Museum and Leicester Museums are fundamental symbols of what it means to be a citizen in the modern world, with a right to information and access to heritage through our collections.&#8217;<br />
 </b>– Sarah Levitt</p></blockquote>
 <p>Sarah Levitt, Head of Arts and Museums at Leicester City Council, opened discussions with an overview of the <span style="font-weight: 400;">close partnership between Leicester Museums and the British Museum, highlighting key exhibitions, spotlight displays, community projects and training opportunities that have been developed in collaboration over ten years. </span></p>
 <p>Listen to Sarah Levitt:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237645096%3Fsecret_token%3Ds-lyN0Z&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-367" src="/wp-content/uploads/New-Walk-Gallery.jpg" alt="New Walk Gallery" width="1204" height="845" srcset="/wp-content/uploads/New-Walk-Gallery.jpg 1204w, /wp-content/uploads/New-Walk-Gallery-300x211.jpg 300w" sizes="(max-width: 1204px) 100vw, 1204px" /></p>
+<p><img class="alignnone size-full wp-image-367" src="./../../../wp-content/uploads/New-Walk-Gallery.jpg" alt="New Walk Gallery" width="1204" height="845" srcset="./../../../wp-content/uploads/New-Walk-Gallery.jpg 1204w, ./../../../wp-content/uploads/New-Walk-Gallery-300x211.jpg 300w" sizes="(max-width: 1204px) 100vw, 1204px" /></p>
 <hr />
 <blockquote><p><b>&#8216;Leicester is a very special place with an incredible range of modern communities. Arts, culture and heritage are at the heart of what we do in the city. They play such an important part in our day to day lives&#8217;<br />
 </b>– Liz Blythe</p></blockquote>
 <p>In her panel talk, Liz Blythe, Leicester&#8217;s Director for Culture and Neighbourhood Services, noted that the number of children being born in Leicester is growing, as are the numbers of young people moving to the city to work and study. Through that process Leicester has emerged as one of the youngest populations in the country, whose young citizens are crucial to the city&#8217;s future. A<span style="font-weight: 400;">s such many of the services of Leicester Museums rightly focus on young people.</span></p>
 <p>Listen to Liz Blythe:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237645095%3Fsecret_token%3Ds-cJ4zA&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-685" src="/wp-content/uploads/MOTC-Leicester-2.jpg" alt="MOTC Leicester 2" width="1264" height="846" srcset="/wp-content/uploads/MOTC-Leicester-2.jpg 1264w, /wp-content/uploads/MOTC-Leicester-2-300x201.jpg 300w" sizes="(max-width: 1264px) 100vw, 1264px" /></p>
+<p><img class="alignnone size-full wp-image-685" src="./../../../wp-content/uploads/MOTC-Leicester-2.jpg" alt="MOTC Leicester 2" width="1264" height="846" srcset="./../../../wp-content/uploads/MOTC-Leicester-2.jpg 1264w, ./../../../wp-content/uploads/MOTC-Leicester-2-300x201.jpg 300w" sizes="(max-width: 1264px) 100vw, 1264px" /></p>
 <hr />
 <blockquote><p><b>&#8216;Objects have huge power to inspire and it&#8217;s important that museums create opportunities for young people to develop a connection with museum collections.&#8217;<br />
 </b>– Joanna Mackle</p></blockquote>
@@ -127,14 +127,14 @@
 <p>The British Museum&#8217;s partnership with Leicester has focused on object loans and spotlight displays, and Joanna Mackle highlighted the 17th-century Mughal jade terrapin, The Throne of Weapons (an artwork made from decommissioned guns in Mozambique), and the Sikh fortress turban as successful loans. In 2016, the partnership will continue with a joint  HLF-funded project called Object Journeys, connecting local young people with collections at the British Museum and New Walk Museum.</p>
 <p>Listen to Joanna Mackle:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237645093%3Fsecret_token%3Ds-hsv7V&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-689" src="/wp-content/uploads/MOTC-Leicester-6.jpg" alt="MOTC Leicester 6" width="1250" height="834" srcset="/wp-content/uploads/MOTC-Leicester-6.jpg 1250w, /wp-content/uploads/MOTC-Leicester-6-300x200.jpg 300w" sizes="(max-width: 1250px) 100vw, 1250px" /></p>
+<p><img class="alignnone size-full wp-image-689" src="./../../../wp-content/uploads/MOTC-Leicester-6.jpg" alt="MOTC Leicester 6" width="1250" height="834" srcset="./../../../wp-content/uploads/MOTC-Leicester-6.jpg 1250w, ./../../../wp-content/uploads/MOTC-Leicester-6-300x200.jpg 300w" sizes="(max-width: 1250px) 100vw, 1250px" /></p>
 <hr />
 <blockquote><p><b>&#8216;Young people are 20% of the population but they are 100% of the future.&#8217;<br />
 </b>– Tim Loughton</p></blockquote>
 <p>Culture, heritage and archaeology are uniquely placed but &#8216;underestimated&#8217; ways of bringing communities together, old and young, noted Tim Loughton MP, Chair of the British Museum&#8217;s All Party Parliamentary Group in his talk. Loughton emphasised the importance of getting young people into museums early, to get them enthused and engaged with local and global histories from a young age.</p>
 <p>Listen to Tim Loughton:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237645092%3Fsecret_token%3Ds-M4q0Y&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-690" src="/wp-content/uploads/MOTC-Leicester-7.jpg" alt="MOTC Leicester 7" width="1309" height="873" srcset="/wp-content/uploads/MOTC-Leicester-7.jpg 1309w, /wp-content/uploads/MOTC-Leicester-7-300x200.jpg 300w" sizes="(max-width: 1309px) 100vw, 1309px" /></p>
+<p><img class="alignnone size-full wp-image-690" src="./../../../wp-content/uploads/MOTC-Leicester-7.jpg" alt="MOTC Leicester 7" width="1309" height="873" srcset="./../../../wp-content/uploads/MOTC-Leicester-7.jpg 1309w, ./../../../wp-content/uploads/MOTC-Leicester-7-300x200.jpg 300w" sizes="(max-width: 1309px) 100vw, 1309px" /></p>
 <hr />
 <blockquote><p><b>&#8216;We need young people who come from outside the Museum to join boards like this, because they are the disruptors; they ask the questions. It&#8217;s extremely important. Otherwise, we become tombs of the past which have no relevance to the way we live now.&#8217;<br />
 </b>– Bonnie Greer</p></blockquote>
@@ -142,7 +142,7 @@
 <p>Writer, broadcaster and former British Museum Trustee Bonnie Greer, said that as a child the museum and museum collections were sites for the questioning and interrogation of the world&#8217;s knowledge, something she wishes for young people today. Greer stated that museums should be disruptors, in the sense that collections should be constantly interrogated and challenged, by academics, teachers and above all by young people.</p>
 <p>Listen to Bonnie Greer:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237645091%3Fsecret_token%3Ds-eCe1T&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-687" src="/wp-content/uploads/MOTC-Leicester-4.jpg" alt="MOTC Leicester 4" width="1276" height="851" srcset="/wp-content/uploads/MOTC-Leicester-4.jpg 1276w, /wp-content/uploads/MOTC-Leicester-4-300x200.jpg 300w" sizes="(max-width: 1276px) 100vw, 1276px" /></p>
+<p><img class="alignnone size-full wp-image-687" src="./../../../wp-content/uploads/MOTC-Leicester-4.jpg" alt="MOTC Leicester 4" width="1276" height="851" srcset="./../../../wp-content/uploads/MOTC-Leicester-4.jpg 1276w, ./../../../wp-content/uploads/MOTC-Leicester-4-300x200.jpg 300w" sizes="(max-width: 1276px) 100vw, 1276px" /></p>
 <hr />
 <blockquote><p><b>&#8216;Museums shouldn&#8217;t be telling young people about things, it should be teaching them and helping them to ask questions. We should be learning from those questions too&#8217;<br />
 </b>– Susan Raikes</p></blockquote>
@@ -156,20 +156,20 @@
 <p>Questions for the panel included how museums can engage with youth culture, how they can become safe spaces for young people, and whether museums should be more active in the digital spaces where young people &#8216;live&#8217; online.</p>
 <p>Listen to the Q&amp;A:<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237645090%3Fsecret_token%3Ds-JlzYM&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
-<p><strong><a href="/?utm_source=enewsletter&amp;utm_medium=email&amp;utm_campaign=Dec2015">Museum of the citizen</a> is a new events programme and public discussion that aims to celebrate our  work with partners, large and small, who help us reach the broadest possible audience.</strong></p>
+<p><strong><a href="./../../../index.html?utm_source=enewsletter&amp;utm_medium=email&amp;utm_campaign=Dec2015">Museum of the citizen</a> is a new events programme and public discussion that aims to celebrate our  work with partners, large and small, who help us reach the broadest possible audience.</strong></p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Museum of the citizen: Norwich</title>
-		<link>/motc-norwich/</link>
+		<link>./../../../motc-norwich/index.html</link>
 		<pubDate>Fri, 04 Dec 2015 06:38:00 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=390</guid>
+		<guid isPermaLink="false">./../../../index.html?p=390</guid>
 		<description><![CDATA[Organised in partnership between the British Museum and Norfolk Museums Service, Museum of the citizen]]></description>
 				<content:encoded><![CDATA[<blockquote><p>Organised in partnership between the British Museum and Norfolk Museums Service, Museum of the citizen in Norwich focused on Norfolk’s internationally important tourism offer, including the developing Deep History Coast partnership and the growing links between the museum sector and the creative industries in the East of England.</p>
-<figure id="attachment_481" style="max-width: 900px" class="wp-caption alignnone"><img class="wp-image-481 size-full" src="/wp-content/uploads/Museum-of-the-citizen-keep11.jpg" alt="Museum of the citizen keep11" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen-keep11.jpg 900w, /wp-content/uploads/Museum-of-the-citizen-keep11-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption class="wp-caption-text">Norwich Museum&#8217;s Castle Keep</figcaption></figure></blockquote>
+<figure id="attachment_481" style="max-width: 900px" class="wp-caption alignnone"><img class="wp-image-481 size-full" src="./../../../wp-content/uploads/Museum-of-the-citizen-keep11.jpg" alt="Museum of the citizen keep11" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen-keep11.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen-keep11-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption class="wp-caption-text">Norwich Museum&#8217;s Castle Keep</figcaption></figure></blockquote>
 <p>Panel speakers included:</p>
 <ul>
 <li><span style="font-weight: 400;">Steve Miller,</span> <span style="font-weight: 400;">Head of Norfolk Museums Service</span></li>
@@ -180,11 +180,11 @@
 <li><span style="font-weight: 400;">Chris Michaels,</span> <span style="font-weight: 400;">Head of Digital and Publishing, British Museum</span></li>
 <li><span style="font-weight: 400;">Dr John Davies,</span> <span style="font-weight: 400;">Chief Curator and </span><span style="font-weight: 400;">Keeper of Archaeology, Norwich Castle Museum</span></li>
 </ul>
-<p><img class="alignnone size-full wp-image-460" src="/wp-content/uploads/Museum-of-the-citizen43-02.31.17.jpg" alt="Museum of the citizen43 02.31.17" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen43-02.31.17.jpg 900w, /wp-content/uploads/Museum-of-the-citizen43-02.31.17-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-460" src="./../../../wp-content/uploads/Museum-of-the-citizen43-02.31.17.jpg" alt="Museum of the citizen43 02.31.17" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen43-02.31.17.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen43-02.31.17-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <hr />
 <blockquote><p><strong>&#8216;We&#8217;re absolutely thrilled to be hosting this partnership event with the British Museum – the museum of the citizen.&#8217;</strong><br />
 – Steve Miller</p></blockquote>
-<p><img class="alignnone wp-image-471 size-full" src="/wp-content/uploads/Museum-of-the-citizen13.jpg" alt="Museum of the citizen13" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen13.jpg 900w, /wp-content/uploads/Museum-of-the-citizen13-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone wp-image-471 size-full" src="./../../../wp-content/uploads/Museum-of-the-citizen13.jpg" alt="Museum of the citizen13" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen13.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen13-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Steve Miller, Head of Norfolk Museums Service, Councillor George Nobbs and the British Museum&#8217;s Chris Michaels opened with a series of introductions to the longstanding partnership between the British Museum and Norfolk Museums Sevice.</p>
 <blockquote><p><strong>&#8216;Working in partnership is a fundamental thing for the Museum, it&#8217;s part of what we do and who we are and this series of events asks and tries to answer questions about the meaning and value of those partnerships.&#8217;<br />
 </strong>– Chris Michaels</p></blockquote>
@@ -193,71 +193,71 @@
 <hr />
 <blockquote><p><span style="color: #000000;"><strong>&#8216;I want to leave you with a single message: the Deep History Coast is not just of Norfolk importance, it&#8217;s not just of British importance, it&#8217;s actually of global importance.&#8217;<br />
 </strong></span>– Nick Ashton</p></blockquote>
-<p><img class="alignnone size-full wp-image-477" src="/wp-content/uploads/Museum-of-the-citizen-keep4.jpg" alt="Museum of the citizen keep4" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen-keep4.jpg 900w, /wp-content/uploads/Museum-of-the-citizen-keep4-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-477" src="./../../../wp-content/uploads/Museum-of-the-citizen-keep4.jpg" alt="Museum of the citizen keep4" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen-keep4.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen-keep4-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p><span style="font-weight: 400;">Norfolk Museums Service staff have been engaged in major discoveries which have transformed our understanding of early British prehistory. Deep History Coast, a new and exciting initiative in partnership with Visit Norfolk and Norfolk Trails, integrates some of Norfolk&#8217;s most significant archaeological sites together with museum collections. Here, <span style="font-weight: 400;">Dr N</span><span style="font-weight: 400;">ick Ashton, Curator of Palaeolithic and Mesolithic </span><span style="font-weight: 400;">C</span><span style="font-weight: 400;">ollections</span><span style="font-weight: 400;"> at the </span><span style="font-weight: 400;">British Museum gave an overview of the project&#8217;s key sites in Happisburgh, which has been home to important discoveries such as the West Runton mammoth and oldest human footprints outside of Africa.</span></span></p>
 <p><span style="font-weight: 400;">Listen to Nick Ashton:</span><br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237642951%3Fsecret_token%3Ds-BY6Xc&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<figure id="attachment_670" style="max-width: 1181px" class="wp-caption alignnone"><img class="wp-image-670 size-full" src="/wp-content/uploads/happisburgh-b.jpg" alt="happisburgh-b" width="1181" height="580" srcset="/wp-content/uploads/happisburgh-b.jpg 1181w, /wp-content/uploads/happisburgh-b-300x147.jpg 300w" sizes="(max-width: 1181px) 100vw, 1181px" /><figcaption class="wp-caption-text">Happisburgh, a key site for the Deep History Coast in Norfolk</figcaption></figure>
+<figure id="attachment_670" style="max-width: 1181px" class="wp-caption alignnone"><img class="wp-image-670 size-full" src="./../../../wp-content/uploads/happisburgh-b.jpg" alt="happisburgh-b" width="1181" height="580" srcset="./../../../wp-content/uploads/happisburgh-b.jpg 1181w, ./../../../wp-content/uploads/happisburgh-b-300x147.jpg 300w" sizes="(max-width: 1181px) 100vw, 1181px" /><figcaption class="wp-caption-text">Happisburgh, a key site for the Deep History Coast in Norfolk</figcaption></figure>
 <hr />
 <blockquote><p><strong>&#8216;Our work has been about translating very important research that&#8217;s been going on along the Norfolk coast, converting it into tourism and education packages, and getting that information out to the public.&#8217;<br />
 </strong>– David Waterhouse</p></blockquote>
-<p><img class="alignnone size-full wp-image-439" src="/wp-content/uploads/Museum-of-the-citizen75-02.31.17-02.32.05.jpg" alt="Museum of the citizen75 02.31.17 02.32.05" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen75-02.31.17-02.32.05.jpg 900w, /wp-content/uploads/Museum-of-the-citizen75-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-439" src="./../../../wp-content/uploads/Museum-of-the-citizen75-02.31.17-02.32.05.jpg" alt="Museum of the citizen75 02.31.17 02.32.05" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen75-02.31.17-02.32.05.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen75-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Following on from Nick Ashton, Dr David Waterhouse, Curator of Natural History at Norfolk Museums Service, gave an overview of the Deep History Coast&#8217;s public engagement programme.</p>
 <p data-l10n-id="">Fossil roadshows have been taking place at key sites along the Deep History Coast since 2012  – these include lectures and workshops. &#8216;Collectors and people who walk on the beaches are our eyes and means for recovering a lot of this information&#8217; noted Waterhouse. &#8216;It&#8217;s really about educating the public about what&#8217;s on our doorstep, and if they find something, making them aware of what to do with it, where to bring it, how to record it.&#8217;</p>
 <p><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237642938%3Fsecret_token%3Ds-pZgi5&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-432" src="/wp-content/uploads/Museum-of-the-citizen82-02.31.17-02.32.05.jpg" alt="Museum of the citizen82 02.31.17 02.32.05" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen82-02.31.17-02.32.05.jpg 900w, /wp-content/uploads/Museum-of-the-citizen82-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-432" src="./../../../wp-content/uploads/Museum-of-the-citizen82-02.31.17-02.32.05.jpg" alt="Museum of the citizen82 02.31.17 02.32.05" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen82-02.31.17-02.32.05.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen82-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <hr />
 <blockquote><p><strong>&#8216;This is the long story of Celts and it goes back almost 2,500 years ago&#8230;&#8217;<br />
 </strong>– Julia Farley</p></blockquote>
-<p><img class="alignnone size-full wp-image-427" src="/wp-content/uploads/Museum-of-the-citizen94-02.31.17-02.32.05.jpg" alt="Museum of the citizen94 02.31.17 02.32.05" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen94-02.31.17-02.32.05.jpg 900w, /wp-content/uploads/Museum-of-the-citizen94-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-427" src="./../../../wp-content/uploads/Museum-of-the-citizen94-02.31.17-02.32.05.jpg" alt="Museum of the citizen94 02.31.17 02.32.05" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen94-02.31.17-02.32.05.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen94-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Although the Celts are not a single people, a distinct race or genetic group that can be traced through time, the idea of a Celtic identity still resonates powerfully today, all the more so because it has been continually redefined to echo contemporary concerns over politics, power and religion. ‘Celtic’ is still a word that creates a sense of difference, but what began as a label applied to outsiders by the ancient Greeks has now been proudly embraced to express a sense of shared heritage and belonging. Reflecting a long history of regional difference and independence, Dr Julia Farley tells the story of the Celts through the incredible objects they made, and showcases a number of torcs – a universal symbol of Celtic identity – that feature in the British Museum&#8217;s new blockbuster show <em><a href="http://www.britishmuseum.org/whats_on/exhibitions/celts.aspx" target="_blank">Celts: art and identity</a></em> .</p>
 <p>Listen to Julia Farley:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237642928%3Fsecret_token%3Ds-w9Dcj&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
 <blockquote><p><b>&#8216;Ten years ago Norfolk produced about 40% of all portable antiquities found in Britain. We still record over 15,000 finds in the county every year, more than any other county in the country and more than several put together.&#8217;<br />
 </b>– Tim Pestell</p></blockquote>
-<p><img class="alignnone size-full wp-image-454" src="/wp-content/uploads/Museum-of-the-citizen49-02.31.17.jpg" alt="Museum of the citizen49 02.31.17" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen49-02.31.17.jpg 900w, /wp-content/uploads/Museum-of-the-citizen49-02.31.17-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-454" src="./../../../wp-content/uploads/Museum-of-the-citizen49-02.31.17.jpg" alt="Museum of the citizen49 02.31.17" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen49-02.31.17.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen49-02.31.17-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p><span style="font-weight: 400;">The Portable Antiquities Scheme (PAS) run by the British Museum has resulted in over 1 million archaeological objects and coins found by the public being recorded. In his talk, Dr Tim Pestell, Senior Curator of Archaeology, Norfolk Museums Service, noted that Norfolk has been home to some of the most remarkable finds recorded through the Scheme, with no other part of Britain matching the mass and quality of material seen in the region. Torcs discovered in Snettisham, Norfolk provide a centrepiece to the British Museum&#8217;s own Iron Age galleries and </span><i><span style="font-weight: 400;">Celts</span></i><span style="font-weight: 400;"> exhibition.</span></p>
 <p>Listen to Tim Pestell:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237642914%3Fsecret_token%3Ds-HInm1&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
 <hr />
 <blockquote><p><b>&#8216;It&#8217;s really up to us as a sector to take on the challenge and opportunity of what a changing digital environment means and make ourselves ever more relevant to our audiences as a result.&#8217;<br />
 –</b> Chris Michaels</p></blockquote>
-<p><img class="alignnone size-full wp-image-440" src="/wp-content/uploads/Museum-of-the-citizen72-02.31.17.jpg" alt="Museum of the citizen72 02.31.17" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen72-02.31.17.jpg 900w, /wp-content/uploads/Museum-of-the-citizen72-02.31.17-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-440" src="./../../../wp-content/uploads/Museum-of-the-citizen72-02.31.17.jpg" alt="Museum of the citizen72 02.31.17" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen72-02.31.17.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen72-02.31.17-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p><span style="font-weight: 400;">Digital technology has and will continue to fundamentally change the museum sector. In his talk Dr Chris Michaels, the British Museum&#8217;s Head of Digital and Publishing, noted that the sector is currently experiencing a second wave of what digital means in museums, powered by greater access to smartphones, which will soon outnumber the global population.</span></p>
 <p><span style="font-weight: 400;">Following an overview of the British Museum&#8217;s recent work across mobile, social and big data, Michaels encouraged organisations to take advantage of the new possibilities that digital allows for museums to encounter and respond to audiences.</span></p>
 <p>Listen to Dr Chris Micheals:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237642878%3Fsecret_token%3Ds-hYDmp&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe></p>
-<p><img class="alignnone size-full wp-image-674" src="/wp-content/uploads/british-museum-google-street-view.jpg" alt="british-museum-google-street-view" width="1452" height="863" srcset="/wp-content/uploads/british-museum-google-street-view.jpg 1452w, /wp-content/uploads/british-museum-google-street-view-300x178.jpg 300w" sizes="(max-width: 1452px) 100vw, 1452px" /></p>
+<p><img class="alignnone size-full wp-image-674" src="./../../../wp-content/uploads/british-museum-google-street-view.jpg" alt="british-museum-google-street-view" width="1452" height="863" srcset="./../../../wp-content/uploads/british-museum-google-street-view.jpg 1452w, ./../../../wp-content/uploads/british-museum-google-street-view-300x178.jpg 300w" sizes="(max-width: 1452px) 100vw, 1452px" /></p>
 <hr />
 <blockquote><p><strong>&#8216;Norwich Castle is a gem of a building but over the years we have been getting the feeling that it is not fulfilling its potential.&#8217;<br />
 </strong>– John Davies</p></blockquote>
-<p><img class="alignnone size-full wp-image-438" src="/wp-content/uploads/Museum-of-the-citizen74-02.31.17-02.32.05.jpg" alt="Museum of the citizen74 02.31.17 02.32.05" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen74-02.31.17-02.32.05.jpg 900w, /wp-content/uploads/Museum-of-the-citizen74-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img class="alignnone size-full wp-image-438" src="./../../../wp-content/uploads/Museum-of-the-citizen74-02.31.17-02.32.05.jpg" alt="Museum of the citizen74 02.31.17 02.32.05" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen74-02.31.17-02.32.05.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen74-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <p>Dr John Davies from Norwich Castle Museums took the audience through plans to transform the keep of the 900-year-old building and recreate how it looked when it was one of the most majestic Norman keeps in Europe. The development, which is slated to become East Anglia&#8217;s most popular tourist spot, will bring 100,000 visitors to the region.</p>
 <p>Listen to John Davies:<br />
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237642870%3Fsecret_token%3Ds-r2tRY&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe><br />
-<img class="alignnone size-full wp-image-430" src="/wp-content/uploads/Museum-of-the-citizen89-02.31.17-02.32.05.jpg" alt="Museum of the citizen89 02.31.17 02.32.05" width="900" height="600" srcset="/wp-content/uploads/Museum-of-the-citizen89-02.31.17-02.32.05.jpg 900w, /wp-content/uploads/Museum-of-the-citizen89-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<img class="alignnone size-full wp-image-430" src="./../../../wp-content/uploads/Museum-of-the-citizen89-02.31.17-02.32.05.jpg" alt="Museum of the citizen89 02.31.17 02.32.05" width="900" height="600" srcset="./../../../wp-content/uploads/Museum-of-the-citizen89-02.31.17-02.32.05.jpg 900w, ./../../../wp-content/uploads/Museum-of-the-citizen89-02.31.17-02.32.05-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
 <hr />
-<p><strong><a href="/?utm_source=enewsletter&amp;utm_medium=email&amp;utm_campaign=Dec2015">Museum of the citizen</a> is a new events programme and public discussion that aims to celebrate the British Museum&#8217;s work with partners, large and small, who help us reach the broadest possible audience.</strong></p>
+<p><strong><a href="./../../../index.html?utm_source=enewsletter&amp;utm_medium=email&amp;utm_campaign=Dec2015">Museum of the citizen</a> is a new events programme and public discussion that aims to celebrate the British Museum&#8217;s work with partners, large and small, who help us reach the broadest possible audience.</strong></p>
 ]]></content:encoded>
 			</item>
 		<item>
 		<title>Objectively Speaking Conference</title>
-		<link>/objectively-speaking-conference/</link>
+		<link>./../../../objectively-speaking-conference/index.html</link>
 		<pubDate>Wed, 02 Dec 2015 14:50:17 +0000</pubDate>
 		<dc:creator><![CDATA[bm-editor]]></dc:creator>
 				<category><![CDATA[News]]></category>
 
-		<guid isPermaLink="false">/?p=392</guid>
+		<guid isPermaLink="false">./../../../index.html?p=392</guid>
 		<description><![CDATA[What ‘added value’ does object-based learning bring to teaching? Share your thoughts&#8230; Objectively speaking is a]]></description>
 				<content:encoded><![CDATA[<blockquote><p><strong>What ‘added value’ does object-based learning bring to teaching? </strong>Share your thoughts&#8230;</p></blockquote>
 <p><em>Objectively speaking</em> is a free conference and debate that aims to explore the value and practice of object-based teaching. The event will be hosted at the British Museum on 4 April 2016.</p>
 <p>Last year, the Museum worked in partnership with the Department of Education and 40 museums across the UK to develop <em><a href="http://www.teachinghistory100.org/about/" target="_blank">Teaching history with 100 objects</a> – </em>a rich online resource that unites collections across the UK through objects, information and teaching. The project, in direct support of the new curriculum in England, aims to inspire students’ interest in history.</p>
-<p><img class="alignnone wp-image-398" src="/wp-content/uploads/teaching-800x1132.jpg" alt="" width="655" height="531" srcset="/wp-content/uploads/teaching-800x1132.jpg 800w, /wp-content/uploads/teaching-800x1132-300x243.jpg 300w" sizes="(max-width: 655px) 100vw, 655px" /></p>
+<p><img class="alignnone wp-image-398" src="./../../../wp-content/uploads/teaching-800x1132.jpg" alt="" width="655" height="531" srcset="./../../../wp-content/uploads/teaching-800x1132.jpg 800w, ./../../../wp-content/uploads/teaching-800x1132-300x243.jpg 300w" sizes="(max-width: 655px) 100vw, 655px" /></p>
 <p>The British Museum and TES also recently launched the <em><a href="http://www.tes.com/hugehistory" target="_blank">Huge History Lesson</a></em>. This ambitious initiative links the world’s largest network of teachers with museums around the country through a creative challenge designed to help students unlock the incredible stories to be found in museum collections.</p>
-<p><img class="alignnone wp-image-395" src="/wp-content/uploads/hugehistorylesson.jpg" alt="" width="655" height="368" srcset="/wp-content/uploads/hugehistorylesson.jpg 1920w, /wp-content/uploads/hugehistorylesson-300x169.jpg 300w" sizes="(max-width: 655px) 100vw, 655px" /></p>
+<p><img class="alignnone wp-image-395" src="./../../../wp-content/uploads/hugehistorylesson.jpg" alt="" width="655" height="368" srcset="./../../../wp-content/uploads/hugehistorylesson.jpg 1920w, ./../../../wp-content/uploads/hugehistorylesson-300x169.jpg 300w" sizes="(max-width: 655px) 100vw, 655px" /></p>
 <p>Both of these projects are underpinned by the idea that objects can act as a gateway to learning, by developing skills of observation and questioning, as well as by making complex ideas relatable and enabling emotional connections.</p>
-<p><img class="alignnone wp-image-265" src="/wp-content/uploads/Screenshot-2015-11-06-18.28.05.png" alt="" width="655" height="439" srcset="/wp-content/uploads/Screenshot-2015-11-06-18.28.05.png 975w, /wp-content/uploads/Screenshot-2015-11-06-18.28.05-300x201.png 300w" sizes="(max-width: 655px) 100vw, 655px" /></p>
+<p><img class="alignnone wp-image-265" src="./../../../wp-content/uploads/Screenshot-2015-11-06-18.28.05.png" alt="" width="655" height="439" srcset="./../../../wp-content/uploads/Screenshot-2015-11-06-18.28.05.png 975w, ./../../../wp-content/uploads/Screenshot-2015-11-06-18.28.05-300x201.png 300w" sizes="(max-width: 655px) 100vw, 655px" /></p>
 <p><strong>Join the conversation and share your thoughts<br />
 </strong>With the generous support of the Vivmar Foundation, the <em>Objectively speaking</em> conference aims to recognise the expertise and experience of museum professionals and educators across the UK and will seek to open up the debate on object-based teaching by providing a platform to share best practice and explore shared challenges.</p>
 <p>The conference is free to all delegates, and the programme will be shaped by your contributions – the British Museum’s national programme is open to all suggestions, presentations, workshops and discussions.</p>
